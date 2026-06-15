@@ -1,0 +1,4 @@
+Scenario_ID,Scenario_Name,Crude_Oil_Price,Crude_Price_Lag_1M,USD_INR,Crude_Imports,Predicted_Petrol,Predicted_Diesel,Fuel_Hike_Percentage,Logistics_Impact_Percentage
+1,1. Base Case (Normal Trade),75.0,73.0,83.5,10635815,1558285.0,3502402.0,-14.972970926370982,-5.989188370548393
+2,2. Partial Blockage (Medium Crisis),105.0,95.0,85.5,9040442,1324963.44,3155969.08,-14.972970926370982,-5.989188370548393
+3,3. Full Blockage (Severe 2026 Crisis),135.0,120.0,88.0,6381489,1324963.44,3155969.08,-14.972970926370982,-5.989188370548393
